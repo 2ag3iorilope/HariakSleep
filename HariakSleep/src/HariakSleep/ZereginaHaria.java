@@ -41,3 +41,6 @@ public class ZereginaHaria extends Thread {
 		}
 	}
 }
+
+//Programa honetan 3 hari sortzen ditugu eta  eta bakoitza lo uzten dugu denbroa random baten bitartean 
+//Eta azkenik haria zenabt denbora egon den lo erakusten du
